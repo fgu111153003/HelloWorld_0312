@@ -1,0 +1,16 @@
+C:\Users\ASUS\OneDrive\桌面\colliter_Hit\HelloWorld_0312\bin\Debug\HelloWorld_0312.exe.config
+C:\Users\ASUS\OneDrive\桌面\colliter_Hit\HelloWorld_0312\bin\Debug\HelloWorld_0312.exe
+C:\Users\ASUS\OneDrive\桌面\colliter_Hit\HelloWorld_0312\bin\Debug\HelloWorld_0312.pdb
+C:\Users\ASUS\OneDrive\桌面\colliter_Hit\HelloWorld_0312\obj\Debug\HelloWorld_0312.csproj.AssemblyReference.cache
+C:\Users\ASUS\OneDrive\桌面\colliter_Hit\HelloWorld_0312\obj\Debug\HelloWorld_0312.csproj.SuggestedBindingRedirects.cache
+C:\Users\ASUS\OneDrive\桌面\colliter_Hit\HelloWorld_0312\obj\Debug\MainWindow.g.cs
+C:\Users\ASUS\OneDrive\桌面\colliter_Hit\HelloWorld_0312\obj\Debug\App.g.cs
+C:\Users\ASUS\OneDrive\桌面\colliter_Hit\HelloWorld_0312\obj\Debug\HelloWorld_0312_MarkupCompile.cache
+C:\Users\ASUS\OneDrive\桌面\colliter_Hit\HelloWorld_0312\obj\Debug\HelloWorld_0312_MarkupCompile.lref
+C:\Users\ASUS\OneDrive\桌面\colliter_Hit\HelloWorld_0312\obj\Debug\MainWindow.baml
+C:\Users\ASUS\OneDrive\桌面\colliter_Hit\HelloWorld_0312\obj\Debug\HelloWorld_0312.g.resources
+C:\Users\ASUS\OneDrive\桌面\colliter_Hit\HelloWorld_0312\obj\Debug\HelloWorld_0312.Properties.Resources.resources
+C:\Users\ASUS\OneDrive\桌面\colliter_Hit\HelloWorld_0312\obj\Debug\HelloWorld_0312.csproj.GenerateResource.cache
+C:\Users\ASUS\OneDrive\桌面\colliter_Hit\HelloWorld_0312\obj\Debug\HelloWorld_0312.csproj.CoreCompileInputs.cache
+C:\Users\ASUS\OneDrive\桌面\colliter_Hit\HelloWorld_0312\obj\Debug\HelloWorld_0312.exe
+C:\Users\ASUS\OneDrive\桌面\colliter_Hit\HelloWorld_0312\obj\Debug\HelloWorld_0312.pdb
